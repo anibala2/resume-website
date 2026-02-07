@@ -1,0 +1,7 @@
+node_modules/
+express-test/
+nextjs-test/
+react-test/
+package.json
+package-lock.json
+verify-setup.js
